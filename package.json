@@ -1,0 +1,36 @@
+{
+  "name": "slatejs",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "rich-text.jsx",
+  "dependencies": {
+    "@material-ui/core": "3.7.1",
+    "@material-ui/icons": "3.0.1",
+    "@types/slate": "0.43.6",
+    "@types/slate-react": "0.20.3",
+    "emotion": "10.0.5",
+    "html-minifier": "3.5.21",
+    "immutable": "4.0.0-rc.12",
+    "is-hotkey": "0.1.4",
+    "prettier": "1.15.3",
+    "primer": "10.10.2",
+    "primer-support": "4.7.0",
+    "react": "16.5.2",
+    "react-color": "2.17.0",
+    "react-dom": "16.5.2",
+    "react-emotion": "9.2.12",
+    "react-scripts": "2.0.3",
+    "slate": "0.44.9",
+    "slate-html-serializer": "0.7.33",
+    "slate-react": "0.21.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}

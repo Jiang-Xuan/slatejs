@@ -1,2 +1,0 @@
-# slatejs
-Created with CodeSandbox
